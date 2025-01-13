@@ -1,0 +1,12 @@
+
+# Environment variables
+.env
+*.env
+
+# FastAPI and Uvicorn
+*.pid
+
+*.pyc
+__pycache__/
+venv/
+.mypy_cache/
